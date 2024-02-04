@@ -14,7 +14,7 @@ public class BubbleSort {
 //        for (int i : arr) {
 //            System.out.print(i + " ");
 //        }
-        bubbleSort1(arr);
+        bubbleSortWithFlag(arr);
         System.out.println(Arrays.toString(arr));
     }
     public static void bubbleSort(int[] arr){
