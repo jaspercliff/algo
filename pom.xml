@@ -7,7 +7,7 @@
   <version>1.0</version>
   <packaging>pom</packaging>
 
-  <name>alog</name>
+  <name>algo</name>
   <url>http://maven.apache.org</url>
     <modules>
         <module>sort</module>
